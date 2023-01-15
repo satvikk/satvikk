@@ -4,7 +4,7 @@ I am Satvik Kishore.
 Weclome to my Github
 
 Check out my personal website:
-- Personal website: satvikkishore.com
+- Personal website: www.satvikkishore.com
 - LinkedIn: https://www.linkedin.com/in/satvik-kishore/
 
 <!--
