@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 🖖
+
+I am Satvik Kishore. 
+Weclome to my Github
+
+Check out my personal website:
+- Personal website: satvikkishore.com
+- LinkedIn: https://www.linkedin.com/in/satvik-kishore/
 
 <!--
 **satvikk/satvikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
