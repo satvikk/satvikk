@@ -3,6 +3,9 @@
 I am Satvik Kishore. 
 Weclome to my Github
 
+I am a Master's Student studying Data Science and Machine Learning at Duke Univesity.
+
+
 Check out my:
 - Personal website: www.satvikkishore.com
 - LinkedIn: https://www.linkedin.com/in/satvik-kishore/
